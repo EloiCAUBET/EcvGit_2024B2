@@ -4,4 +4,4 @@ $ pwd
 $ cd ../../../
 $ pwd
 Quelle va être l'affichage sur mon terminal si j'execute cette commande ?
--> 
+-> On reviens trois parents en arrière, donc : /Users/cmoi/c/tres
