@@ -1,2 +1,2 @@
 A quoi sert Git ?
--> 
+-> Git est un outil qui permet d'enregistrer des fichiers dans une base de donné, permettant de consulter chaque nouvelle version de cette base de données à chaque modifications.
